@@ -1,4 +1,7 @@
 # Experiment_7-Bitwise-Operations
+
+## Algorithm:
+1. 
 To use bitwise operations and
 A., B., C. Perform AND OR XOR Expressions
 D. Print Binary form
@@ -33,8 +36,14 @@ To take a number, and find the number of setbits set to 1
 <img width="980" alt="image" src="https://user-images.githubusercontent.com/26576979/227754353-078e669c-bec4-4d1b-b2b5-6cd3ff97b9ee.png">
 
 ## F
-To take a number and determine whether it is odd or even
 
+To take a number and determine whether it is odd or even
+### Algorithm:
+1. Stop
+2. Do a bitwise AND (&) with the given number and 1.
+3. If the result of the above step is 1, then the number is an odd number.
+4. Otherwise, the number is an even number.
+5. Stop
 ### Code:
 <img width="701" alt="image" src="https://user-images.githubusercontent.com/26576979/227754448-a5cf72a5-8f0c-47b7-9832-ede2f6e8be1e.png">
 
